@@ -1,0 +1,12 @@
+{
+  "name": "minimal-pdf",
+  "version": "1.0.0",
+  "description": "Minimal PDF Document",
+  "main": "dist/index.js",
+  "author": "William West",
+  "license": "MIT",
+  "devDependencies": {
+    "@rollup/plugin-url": "^7.0.0",
+    "rollup": "^2.77.0"
+  }
+}
